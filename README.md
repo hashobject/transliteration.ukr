@@ -6,6 +6,8 @@ A Clojure library for transliteration cyrillic Ukrainian words to latin. Was imp
 All test cases from the law are implemented.
 
 
+[![Dependencies Status](http://jarkeeper.com/hashobject/transliteration.ukr/status.png)](http://jarkeeper.com/hashobject/transliteration.ukr)
+
 ## Usage
 
 ```
