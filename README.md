@@ -1,6 +1,6 @@
 # transliteration.ukr
 
-A Clojure library for transliteration cyrillic ukrainian words to latin. Was implemented with following
+A Clojure library for transliteration cyrillic Ukrainian words to latin. Was implemented with following
 [Ukrainian law](http://zakon1.rada.gov.ua/cgi-bin/laws/main.cgi?nreg=55-2010-%EF) in mind.
 
 All test cases from the law are implemented.
