@@ -7,6 +7,7 @@ All test cases from the law are implemented.
 
 
 [![Dependencies Status](http://jarkeeper.com/hashobject/transliteration.ukr/status.svg)](http://jarkeeper.com/hashobject/transliteration.ukr)
+[![Circle CI](https://circleci.com/gh/hashobject/transliteration.ukr.svg?style=svg)](https://circleci.com/gh/hashobject/transliteration.ukr)
 
 ## Usage
 
